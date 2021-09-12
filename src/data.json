@@ -1,0 +1,5 @@
+[
+    {"nama":"Teknik", "info":"Fakultas Teknik Universitas Universitas Diponegoro disingkat FT UNDIP adalah salah satu fakultas di bawah Universitas Diponegoro yang saat ini dipimpin oleh Dekan Ir. M. Agung Wibowo, MM, MSc, PhD", "isPriceBold":"True","image":"././assets/teknik.jpg", "isads":"False"},
+    {"nama":"Kedokteran", "info":"Fakultas Kedokteran Universitas Diponegoro atau disingkat FK Undip merupakan salah satu sekolah kedokteran di Indonesia. Fakultas Kedokteran Universitas Diponegoro didirikan pada 1 Oktober 1961", "isPriceBold":"True", "image":"./assets/dokter.jpg", "isads":"False"},
+    {"nama":"Hukum", "info":"Fakultas Hukum Universitas Diponegoro disingkat FH UNDIP merupakan fakultas pertama di Universitas Diponegoro ketika berdiri pada tahun 1957", "isPriceBold":"True", "image":"./assets/hukum.jpg", "isads":"False"}
+]
